@@ -5,4 +5,4 @@ Several projects related to natural language processing for Polish language.
 - TF IDF
 
 ## Tech
-**Python**: morfeusz2, spacy, pandas ,numpy, sklearn
+**Python**: morfeusz2, spacy, pandas, numpy, sklearn
